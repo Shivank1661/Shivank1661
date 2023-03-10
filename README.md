@@ -1,4 +1,4 @@
-![logo](https://github.com/Shivank1661/Shivank1661/blob/main/wallpaper2.png)
+![logo](https://github.com/Shivank1661/Shivank1661/blob/main/image.png.jpg)
 <h1 align="center">Hi 👋, I'm Shivank</h1>
 <h3 align="center">I am look to enhance my Professional skills, capability and knowledge in an organization which recognize the value of hard-work.</h3>
 
